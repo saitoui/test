@@ -1,3 +1,5 @@
 SAMPLE_
 
 command shift .
+
+Git Graph
