@@ -1,1 +1,3 @@
 SAMPLE__
+
+command shift .
